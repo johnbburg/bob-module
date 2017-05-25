@@ -1,0 +1,5 @@
+<?php
+
+function bob_page_attachments($attachements) {
+  $attachments['#attached']['library'][] = 'bob/bob';
+}

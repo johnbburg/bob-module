@@ -1,0 +1,6 @@
+name: Bob
+describption: This module does nothing but add a pointless library for learning how to add libraries in Drupal 8.
+package: Custom
+type: module
+core: 8.x
+

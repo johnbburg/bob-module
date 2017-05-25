@@ -1,0 +1,5 @@
+bob:
+  version: 1.x
+  js
+    /libraries/bob/dist/bob.js: {}
+
